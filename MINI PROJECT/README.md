@@ -51,16 +51,32 @@ DON’T WORRY! Maik left a table in his notebook and It’s simple to understand
 
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+It is basically like master mind. 
+
+The goal: 
+The goal is to match a specific randomly generated profile on a vaccination card. The people who match this profile will be saved in the new pandemic.
+
+The universe consists of all the possible combinations of vaccines in your body. Only a specific set of vaccines will be given. We will start with dosis of covid vaccines and take into consideration their brand (i.e. Astra Zeneca, Pfizer, etc).
+
+The card will have a specified number of possible shots taken (I'll start with 4). Obviously combinations may allow repeat.
+
+You will get 4 guesses before you lose. 
+
+They clues will be given to you very much like wordle. Meaning you will know if you get one in the right place which one it is. 
+
+There will be 7 vaccine brands. Abstention will not be counted as possible.
+
+IF I WANNA COMPLICATE THINGS
+
+-There will be a data base that will contain all possible profiles which will be smaller than the Universe. Meaning there will be profiles that won't exist at all so that the try doesn't count. Just like wordle if a word doesn't exist.   
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
+I used trello please se elink below:
 
-What does your repository look like? Explain your folder and file structure.
+TO PLAY: 
+
+Please open the Jupyter Motebook called: PANDEMYA.ipynb and run it. 
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/VKHUZ4jT/pandemya)  
