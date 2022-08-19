@@ -75,7 +75,7 @@ I used trello please se elink below:
 
 TO PLAY: 
 
-Please open the Jupyter Motebook called: PANDEMYA.ipynb and run it. 
+Please open the Jupyter Notebook called: PANDEMYA.ipynb and run it. 
 
 ## Links
 
