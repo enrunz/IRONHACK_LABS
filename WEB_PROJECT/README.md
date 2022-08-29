@@ -29,9 +29,13 @@ También se podrían crear bases de datos de conjuntos de ciudades con algún ra
 ## Contenidos
 
 -Este README.md
+
 -Una carpeta con recursos sin fruto para consideración futura. (FAILS)
+
 -Un Jupyter Notebook que contiene el trabajo con la API y el Web Scraping de Wikuipedia. 
+
 -Un archivo cities.csv que contiene un prototipo de Data Frame compuesto. Se obtuvo la información de los índices de 10 ciudades en Norte América.  
+
 
 ----
 
