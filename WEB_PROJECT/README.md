@@ -25,7 +25,8 @@ También se podrían crear bases de datos de conjuntos de ciudades con algún ra
 
 ---
 
-##Contenidos
+
+## Contenidos
 
 -Este README.md
 -Una carpeta con recursos sin fruto para consideración futura. (FAILS)
@@ -37,5 +38,7 @@ También se podrían crear bases de datos de conjuntos de ciudades con algún ra
 ## Links
 
 API: https://developers.teleport.org/api/
+
 API ENDPOINT CREATOR: https://developers.teleport.org/api/reference/
+
 Embedded protocol: city:search-results/city:item/city:urban_area/ua:scores
